@@ -1,3 +1,3 @@
-## Welcome to the East-West Company GitHub!
+## Welcome to Pango GitHub!
 
-This is the official GitHub account for the East-West Company. Here you will find all the code and documentation for our projects.
+This is the official GitHub account for Pango. Here you will find all the code and documentation for our projects.
